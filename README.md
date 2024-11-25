@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend: HTML, CSS (frameworks), JavaScript, React/Vue/Angular, state management.<br>Backend: Node.js/Express, Django/Flask, SQL & NoSQL.<br>DevOps & Cloud: Git, Docker, Kubernetes, AWS/GCP/Azure, CI/CD.<br>APIs & Auth: REST, GraphQL, JWT, OAuth.<br>Testing: Jest, Cypress, Mocha, Postman.
+Frontend: HTML, CSS (frameworks), JavaScript, React/Tailwind/Bootstrap state management.<br>Backend: Node.js/Express, SQL & NoSQL.<br>DevOps & Cloud: Git, AWS/GCP/Azure,<br>APIs & Auth: REST, JWT, OAuth.<br>Testing: Cypress, , Postman.
 
 
 # 💻 Tech Stack:
